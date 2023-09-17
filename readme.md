@@ -1,7 +1,7 @@
 <h2> Salut je m'appelle Romain, bienvenus sur mon github 👋</h2> <br>
 Je suis étudiant en deuxième année dans l'axe "Coding & Digital Innovation" a l'IIM. <br><br>
 
-<h3> :technologist: Compétances :</h3> 
+<h3> :technologist: Compétences :</h3> 
 <strong>Logiciels</strong> <br>
 -Word <br>
 -Excel <br>
