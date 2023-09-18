@@ -17,7 +17,7 @@ Je suis étudiant en deuxième année dans l'axe "Coding & Digital Innovation" a
 <h3>:sparkles: Passions :</h3>
 -Le code <br>
 -Film/séries <br>
--Sport : Cyclisme, Natation, Football, Tannis de table
+-Sport : Cyclisme, Natation, Football, Tennis de table
 
 
 
