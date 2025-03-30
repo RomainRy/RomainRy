@@ -1,5 +1,5 @@
 <h2> Bonjour je m'appelle Romain, bienvenue sur mon github 👋</h2> <br>
-Je suis étudiant en deuxième année dans l'axe "Coding & Digital Innovation" à l'IIM Digital School. <br><br>
+Je suis étudiant en troisième année dans l'axe "Coding & Digital Innovation" à l'IIM Digital School. <br><br>
 
 <h3> 🧑‍💻 Compétences :</h3> 
 <strong>Logiciels</strong> <br>
@@ -16,6 +16,10 @@ Je suis étudiant en deuxième année dans l'axe "Coding & Digital Innovation" �
 -WordPress <br>
 -Vite <br>
 -ExpressJS <br>
+-Tailwind <br>
+-React <br>
+-Symfony <br>
+-Three.js
 
 <h3> ✨ Passions :</h3>
 -Le code <br>
